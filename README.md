@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adityaj0511" alt="adityaj0511" /></a> </p>
 
-- 🔭 I’m currently working on [Db.json](Very Soon)
+- 🔭 I’m currently working on [Db.json]
 
 - 🌱 I’m currently learning **Next.Js**
 
@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@adityajagdev0511](https://medium.com/@adityajagdev0511)
 
-- 💬 Ask me about **HTML,CSS,Bootstrap,Javascript,React,Node**
+- 💬 Ask me about **HTML,CSS,Bootstrap,Javascript,React,Node.Js**
 
 - 📫 How to reach me **adityajagdev0511@gmail.com**
 
