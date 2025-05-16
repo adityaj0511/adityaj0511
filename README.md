@@ -34,6 +34,7 @@ const CrazyFlutterDev = {
 <p align="center">
 	<a href="https://github.com/adityaj0511"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="[https://www.linkedin.com/in/nwaobidaniel/]([https://www.linkedin.com/in/mehul-kurhe-b55390296/]"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="https://instagram.com/adityaj0511"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="GitHub"/></a>
 <!--   	<a href="https://discordapp.com/users/822812589624393749"><img src="https://img.icons8.com/bubbles/50/000000/discord.png" alt="Discord"/></a> -->
 </p>
 
@@ -47,7 +48,7 @@ const CrazyFlutterDev = {
 <!--     <img src="https://skillicons.dev/icons?i=aiscript,androidstudio,aws,c,cpp,cmake,github,figma,git" />
     <img src="https://skillicons.dev/icons?i=discord,python,bots,flutter,gcp,firebase,kotlin,linkedin,java,visualstudio,twitter" /><br>
     <img src="https://skillicons.dev/icons?i=cpp,dart,python,flutter,firebase,supabase,androidstudio,vscode,github,java,php,sqlite" /> -->
-    <img src="https://skillicons.dev/icons?i=html,css,git,javascript,jquery,react,linkedin,instagram,nodejs,express,mangodb," />
+    <img src="https://skillicons.dev/icons?i=html,css,git,javascript,jquery,react,nodejs,express,mangodb," />
 </div>
 
 <br/>
