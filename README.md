@@ -32,7 +32,7 @@ const CrazyFlutterDev = {
  </div>
 
 <p align="center">
-	<a href="https://github.com/Mehul0906"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://github.com/adityaj0511"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="[https://www.linkedin.com/in/nwaobidaniel/]([https://www.linkedin.com/in/mehul-kurhe-b55390296/]"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 <!--   	<a href="https://discordapp.com/users/822812589624393749"><img src="https://img.icons8.com/bubbles/50/000000/discord.png" alt="Discord"/></a> -->
 </p>
@@ -60,15 +60,15 @@ const CrazyFlutterDev = {
 <br>
 
 <div align=center>
-  <img width=390 height=162.84 src="https://github-readme-stats.vercel.app/api?username=Mehul0906&theme=algolia&show_icons=true&rank_icon=github&border_radius=20&count_private=true" alt="streak stats"/>
-<img width=390 height=162.84 src="https://github-readme-streak-stats.herokuapp.com/?user=Mehul0906&theme=algolia&border_radius=20" alt="readme stats"/>
+  <img width=390 height=162.84 src="https://github-readme-stats.vercel.app/api?username=adityaj0511&theme=algolia&show_icons=true&rank_icon=github&border_radius=20&count_private=true" alt="streak stats"/>
+<img width=390 height=162.84 src="https://github-readme-streak-stats.herokuapp.com/?user=adityaj0511&theme=algolia&border_radius=20" alt="readme stats"/>
   <br/>
 
-   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mehul0906&layout=donut-vertical&show_icons=true&rank_icon=github&border_radius=20&title_color=00AEFF&text_color=c9cacc&icon_color=4AB197&bg_color=050F2C"/>
+   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityaj0511&layout=donut-vertical&show_icons=true&rank_icon=github&border_radius=20&title_color=00AEFF&text_color=c9cacc&icon_color=4AB197&bg_color=050F2C"/>
 </div>
 
 <br/>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Mehul0906&label=Profile%20views&color=0e75b6&style=flat" alt="Mehul0906" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=adityaj0511&label=Profile%20views&color=0e75b6&style=flat" alt="adityaj0511" /> </p>
 
 <hr/>
