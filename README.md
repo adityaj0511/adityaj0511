@@ -47,21 +47,14 @@ const CrazyFlutterDev = {
 <!--     <img src="https://skillicons.dev/icons?i=aiscript,androidstudio,aws,c,cpp,cmake,github,figma,git" />
     <img src="https://skillicons.dev/icons?i=discord,python,bots,flutter,gcp,firebase,kotlin,linkedin,java,visualstudio,twitter" /><br>
     <img src="https://skillicons.dev/icons?i=cpp,dart,python,flutter,firebase,supabase,androidstudio,vscode,github,java,php,sqlite" /> -->
-    <img src="https://skillicons.dev/icons?i=html,css,git,javascript,jquery,react,linkedin,instagram,node,express,mangodb," />
+    <img src="https://skillicons.dev/icons?i=html,css,git,javascript,jquery,react,linkedin,instagram,node.js,express,mangodb," />
 </div>
 
 <br/>
 <hr/>
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
 
-  <br/>
-</div>
 
-<hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
