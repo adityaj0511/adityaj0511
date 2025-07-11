@@ -48,7 +48,7 @@ const CrazyFlutterDev = {
 <!--     <img src="https://skillicons.dev/icons?i=aiscript,androidstudio,aws,c,cpp,cmake,github,figma,git" />
     <img src="https://skillicons.dev/icons?i=discord,python,bots,flutter,gcp,firebase,kotlin,linkedin,java,visualstudio,twitter" /><br>
     <img src="https://skillicons.dev/icons?i=cpp,dart,python,flutter,firebase,supabase,androidstudio,vscode,github,java,php,sqlite" /> -->
-    <img src="https://skillicons.dev/icons?i=html,css,git,javascript,jquery,react,nodejs,express,mangodb,nextjs" />
+    <img src="https://skillicons.dev/icons?i=html,css,git,javascript,jquery,react,nodejs,express,mongodb,nextjs" />
 </div>
 
 <br/>
