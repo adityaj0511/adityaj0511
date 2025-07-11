@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+There!+👋;+I'm+Aditya+Jagdev!;" />
 </h1>
 
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExanVqcWVoOWc1bTJ1bnRqcHZkYW1qdmljY25xemc4bmsxd3dwenZmNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bJ4TVNYNUympPgcpem/giphy.gif"/>
+<img src="[https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExanVqcWVoOWc1bTJ1bnRqcHZkYW1qdmljY25xemc4bmsxd3dwenZmNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bJ4TVNYNUympPgcpem/giphy.gif](https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif)"/>
 
 <div>
 
@@ -14,7 +14,7 @@ const CrazyFlutterDev = {
     contact: ["adityajagdev0511@gmail.com"],
     collaborations: ["Red & White Multimedia", "Self Learner"],
     workingOn: ["Full-Stack Development"],
-    learning: ["HTML", "CSS", "BOOTSTARP", "Javascript", "React.js" , "Node.js" , "Express" , "Mongodb"],
+    learning: ["HTML", "CSS", "BOOTSTARP", "Javascript", "React.js" , "Node.js" , "Express" , "Mongodb" , "Angular.js" , "Next.js"],
     askMeAbout: ["My Learnings", "Frontend Development", "Full-Stack Development"],
     hobbies: {
         major: {
@@ -48,7 +48,7 @@ const CrazyFlutterDev = {
 <!--     <img src="https://skillicons.dev/icons?i=aiscript,androidstudio,aws,c,cpp,cmake,github,figma,git" />
     <img src="https://skillicons.dev/icons?i=discord,python,bots,flutter,gcp,firebase,kotlin,linkedin,java,visualstudio,twitter" /><br>
     <img src="https://skillicons.dev/icons?i=cpp,dart,python,flutter,firebase,supabase,androidstudio,vscode,github,java,php,sqlite" /> -->
-    <img src="https://skillicons.dev/icons?i=html,css,git,javascript,jquery,react,nodejs,express,mangodb," />
+    <img src="https://skillicons.dev/icons?i=html,css,git,javascript,jquery,react,nodejs,express,mangodb,nextjs" />
 </div>
 
 <br/>
