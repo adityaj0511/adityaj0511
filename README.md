@@ -14,7 +14,8 @@ const CrazyFlutterDev = {
     contact: ["adityajagdev0511@gmail.com"],
     collaborations: ["Red & White Multimedia", "Self Learner", "SynapTek Infotech"],
     workingOn: ["Full-Stack Development"],
-    learning: ["HTML", "CSS", "BOOTSTARP", "Javascript", "React.js" , "Node.js" , "Express" , "Mongodb" , "Angular.js" , "Next.js"],
+    learning: ["HTML", "CSS", "BOOTSTARP", "Javascript", "React.js" , "Node.js" , "Express" , "Mongodb" ,
+		 "Angular.js" , "Next.js"],
     askMeAbout: ["My Learnings", "Frontend Development", "Full-Stack Development"],
     hobbies: {
         major: {
