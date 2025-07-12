@@ -1,18 +1,76 @@
-  <p align="right"> <img src="https://gpvc.arturio.dev/austinae" alt="Profile count"> </p>
-<div align="center">
-<p><img src="https://user-images.githubusercontent.com/44261381/209363264-ac854d3c-2cc2-44c4-928e-8a08d1013f46.png" alt="Top of pokeball"></p>
-<details open="">
-<summary>Open profile</summary>
-<p><br></p>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+There!+👋;+I'm+Aditya+Jagdev!;" />
+</h1>
+
+<img src="https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif"/>
+
 <div>
-  <div align="center">
-      <img height="200" alt="Screenshot_2022-12-22_at_23 08 11-removebg-preview" src="https://user-images.githubusercontent.com/44261381/209237088-3bbb1512-7486-4c36-afd8-bb60077d067b.png">
-  </div>
-  <div align="center">
-      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&amp;size=35&amp;duration=3500&amp;pause=300&amp;color=A89568&amp;center=true&amp;vCenter=true&amp;width=500&amp;lines=Hey,+I'm+Aditya;aka+Jagdev;Welcome+to+my+profile!;Description+of+myself:;Full+Stack+Developer;Inquisitive+by+nature;AI+enthusiast;Chess+lover;Confident+and+ambitious;Long-distance+athlete;Young+at+heart;Guitar+player;Thrill+seeker" alt="Typing SVG"></a>
-  </div>
+
+```javascript
+const CrazyFlutterDev = {
+    name: "Aditya Jagdev",
+    pronouns: "he" | "him",
+    location: ["Dindoli, Surat"],
+    contact: ["adityajagdev0511@gmail.com"],
+    collaborations: ["Red & White Multimedia", "Self Learner", "SynapTek Infotech"],
+    workingOn: ["Full-Stack Development"],
+    learning: ["HTML", "CSS", "BOOTSTARP", "Javascript", "React.js" , "Node.js" , "Express" , "Mongodb" ,
+		 "Angular.js" , "Next.js"],
+    askMeAbout: ["My Learnings", "Frontend Development", "Full-Stack Development"],
+    hobbies: {
+        major: {
+            	indoor: ["Cooking", "Watching YouTube", "Gaming", "Discord"],
+		outdoor: ["Traveling", "Car Riding"],
+        },
+	 funFact: {
+            secret: ["I am Not a Funny Person!!"],
+        }        
+    }
+   passionate: ["A passionate Full-Stack Developer from India"]
+};
+```
+
+ </div>
+
+<p align="center">
+	<a href="https://github.com/adityaj0511"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="[https://www.linkedin.com/in/nwaobidaniel/]([https://www.linkedin.com/in/mehul-kurhe-b55390296/]"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="https://instagram.com/adityaj0511"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="GitHub"/></a>
+<!--   	<a href="https://discordapp.com/users/822812589624393749"><img src="https://img.icons8.com/bubbles/50/000000/discord.png" alt="Discord"/></a> -->
+</p>
+
 </div>
-<details>
-<summary>About me</summary>
-<div align="left">
-<pre class="astro-code github-dark" style="background-color:
+
+ <hr/>
+
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+<!--     <img src="https://skillicons.dev/icons?i=aiscript,androidstudio,aws,c,cpp,cmake,github,figma,git" />
+    <img src="https://skillicons.dev/icons?i=discord,python,bots,flutter,gcp,firebase,kotlin,linkedin,java,visualstudio,twitter" /><br>
+    <img src="https://skillicons.dev/icons?i=cpp,dart,python,flutter,firebase,supabase,androidstudio,vscode,github,java,php,sqlite" /> -->
+    <img src="https://skillicons.dev/icons?i=html,css,git,javascript,jquery,react,nodejs,express,mongodb,nextjs" />
+</div>
+
+<br/>
+<hr/>
+
+
+
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+
+<div align=center>
+  <img width=390 height=162.84 src="https://github-readme-stats.vercel.app/api?username=adityaj0511&theme=algolia&show_icons=true&rank_icon=github&border_radius=20&count_private=true" alt="streak stats"/>
+<img width=390 height=162.84 src="https://github-readme-streak-stats.herokuapp.com/?user=adityaj0511&theme=algolia&border_radius=20" alt="readme stats"/>
+  <br/>
+
+   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityaj0511&layout=donut-vertical&show_icons=true&rank_icon=github&border_radius=20&title_color=00AEFF&text_color=c9cacc&icon_color=4AB197&bg_color=050F2C"/>
+</div>
+
+<br/>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=adityaj0511&label=Profile%20views&color=0e75b6&style=flat" alt="adityaj0511" /> </p>
+
+<hr/>
