@@ -12,14 +12,14 @@ const CrazyFlutterDev = {
     pronouns: "he" | "him",
     location: ["Dindoli, Surat"],
     contact: ["adityajagdev0511@gmail.com"],
-    collaborations: ["Red & White Multimedia", "Self Learner"],
+    collaborations: ["Red & White Multimedia", "Self Learner", "SynapTek Infotech"],
     workingOn: ["Full-Stack Development"],
     learning: ["HTML", "CSS", "BOOTSTARP", "Javascript", "React.js" , "Node.js" , "Express" , "Mongodb" , "Angular.js" , "Next.js"],
     askMeAbout: ["My Learnings", "Frontend Development", "Full-Stack Development"],
     hobbies: {
         major: {
-            	indoor: ["Mobiles", "Cooking", "watching YouTube", "Gaming", "Discord"],
-		outdoor: ["Traveling", "Alone Riding"],
+            	indoor: ["Cooking", "Watching YouTube", "Gaming", "Discord"],
+		outdoor: ["Traveling", "Car Riding"],
         },
 	 funFact: {
             secret: ["I am Not a Funny Person!!"],
